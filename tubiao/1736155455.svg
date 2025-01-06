@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 42 42">
+  <defs>
+    <clipPath id="clip-Camera_Raw">
+      <rect width="42" height="42"/>
+    </clipPath>
+  </defs>
+  <g id="Camera_Raw" data-name="Camera Raw" clip-path="url(#clip-Camera_Raw)">
+    <g id="Group_12" data-name="Group 12">
+      <rect id="Rectangle_32" data-name="Rectangle 32" width="42" height="40.95" rx="8.4" fill="#dbdcdd"/>
+      <path id="Path_28" data-name="Path 28" d="M54.879,58.093l4.9,8.5a13.65,13.65,0,0,0,8.75-8.5Zm.768-18.163a13.421,13.421,0,0,0-2.5.231L60,52.036l4.9-8.489A13.6,13.6,0,0,0,55.647,39.93Zm10.365,4.786L59.187,56.541h9.777A13.619,13.619,0,0,0,66.012,44.716ZM51.382,55.141l-4.931,8.531a13.641,13.641,0,0,0,11.774,3.311Zm-9.062-4.513A13.6,13.6,0,0,0,45.333,62.5l6.851-11.875ZM51.57,40.553a13.667,13.667,0,0,0-8.8,8.522H56.5Z" transform="translate(-34.647 -32.942)" fill="#510f17"/>
+    </g>
+  </g>
+</svg>
