@@ -12,4 +12,4 @@ jobs:
         env:
           SSH_PRIVATE_KEY: ${{ secrets.GITEE_SSH_KEY }}  # 或使用用户名+密码 
         with:
-          destination-repo: git@gitee.com:tupian/repo.git  
+          destination-repo: git@gitee.com:bjhwjy/tupian.git  
