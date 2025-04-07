@@ -1,0 +1,15 @@
+name: Sync to Gitee 
+on:
+  push:
+    branches: [ main ]  # 触发分支 
+jobs:
+  sync:
+    runs-on: ubuntu-latest 
+    steps:
+      - uses: actions/checkout@v4 
+      - name: Mirror to Gitee 
+        uses: wearerequired/git-mirror-action@master 
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.GITEE_SSH_KEY }}  # 或使用用户名+密码 
+        with:
+          destination-repo: git@gitee.com:tupian/repo.git  
